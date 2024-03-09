@@ -1,0 +1,50 @@
+.srbtn{
+    box-shadow: 0 0 10px  rgb(255, 119, 0);
+}
+
+.bg1{
+    background-color: rgb(255, 111, 44);
+}
+
+.bg{
+    background-color:   rgb(255, 250, 230);
+}
+
+.bg2{
+    background-color: rgb(255, 250, 230);
+}
+
+.movieicon{
+    color: rgb(120, 120, 120);
+}
+
+.AD{
+    text-decoration: none;
+    color: beige;
+    font-weight: 800;
+}
+.borderr{
+    border-top: 1px solid rgb(255, 119, 0);
+}
+.playborder{
+    border-top: 1px solid rgb(255, 255, 255);
+}
+.nvbr{
+    box-shadow: 0 0 6px  rgb(255, 119, 0);
+}
+.nothingcolor{
+    background-color: rgb(85, 85, 85);
+}
+
+.playfooter{
+    color: white;
+    font-weight: 100;
+}
+.sds{
+    color: rgb(143, 40, 0);
+    background-color: rgb(255, 227, 45);
+    box-shadow: 0 0 5px  rgb(43, 43, 43);
+}
+.btnfooter{
+    font-weight: 300;
+}
